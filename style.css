@@ -1,0 +1,133 @@
+
+
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    background-image:url(images/bg1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: auto;
+
+    }
+h1{
+    font-size: 50px;
+}
+h3{
+    font-size: 40px;
+}
+.orange-color{
+    color: orange;
+}
+#red{
+    color: red;
+}
+p{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+
+}
+.half-width{
+    width: 40%;
+    float: left;
+   margin-left: 5%;
+   padding-left: 2%;
+}
+.half-width img{
+    width: 70%;
+}
+.button{
+    text-decoration: none;
+    background-color: orange;
+    border-radius: 8px;
+    padding: 10px 20px;
+    color: white;
+}
+.cntr{
+    margin: 600px;
+    margin-top: 20px ;
+}
+
+.yellow {
+    color: rgb(0, 0, 0);
+}
+b {
+    font-weight: bold;
+}
+.alignment {
+    text-align: center;
+    font-size: 40px;
+    font-family: Poppins, sans-serif;
+
+}
+.sectn{
+    margin-top: 40px;
+    margin-left: 250px;
+    margin-right: 10px;
+    margin-bottom: 50px;
+    Display: flex;
+}
+.div1 {
+    border-radius: 33px;
+    width: 23%;
+    border: 3px 2px 2px 2px solid;
+    border-color: none;
+    padding: 30px 20px;
+    margin: 10px;
+}
+.d1{
+    background-color: aquamarine;
+}
+.d2{
+    background-color: rgb(206, 215, 101);
+}
+.d3{
+    background-color: rgb(3, 228, 224);
+}
+#clr{
+    color: black;
+}
+.yellw{
+    color: black;
+    background-color: orange;
+    border-radius: 8px;
+    padding: 10px 20px;
+}
+.g1{
+    color: black;
+    background-color: orange;
+    border-radius: 8px;
+    padding: 10px 20px;
+    margin-right: 5px;
+}
+.dsgn{
+width: 90%;
+box-shadow: 20px 10px 20px gray;
+
+
+}
+.lft{
+    width: 30%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.mrgin{
+    margin-bottom: 120px;
+    margin-left: 50px;
+    margin-top: 20px;
+    border-radius: 7px;
+}
+.sectn1{
+    margin-top: 40px;
+    margin-left: 250px;
+    margin-right: 10px;
+    margin-bottom: 50px;
+    display: flex;
+}
+h6{
+    text-align: center;
+}
+footer p{
+   
+ text-align: center;
+}
+
